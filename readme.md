@@ -53,7 +53,7 @@ A selection of projects I've built while learning frontend development.
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🏡 [Hometown Homepage](./01-web-dev-basics/hometown-homepage/) | A personal introduction to my hometown, Zonguldak. | HTML, CSS, Flexbox |
+| 🏡 [Hometown Homepage](./01-web-dev-basics/solo-project-hometown-homepage) | A personal introduction to my hometown, Zonguldak. | HTML, CSS, Flexbox |
 
 *More projects coming soon!*
 
